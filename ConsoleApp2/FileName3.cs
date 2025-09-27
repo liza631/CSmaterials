@@ -8,7 +8,7 @@ namespace ConsoleApp2
 {
     internal class FileName3
     {
-        static void Main(string[] args)
+        static void Mainпы(string[] args)
         {
             string password = "1234";
             string login = "login";
