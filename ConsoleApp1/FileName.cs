@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     internal class FileName
     {
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
             Console.WriteLine("Введите количество секунд");
 
