@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\user\\documents\\github\\csmaterials\\consoleapp2\\filename4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\filename4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\consoleapp2\\filename3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\consoleapp2\\filename3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\filename3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\consoleapp2\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\consoleapp2\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\consoleapp2\\filename2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\consoleapp2\\filename2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\filename2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\desktop\\\u043F511\\consoleapp1\\csmaterials\\consoleapp2\\filename4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4B6EAC-6658-41B9-A935-45A39DAE3E3E}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\filename4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FileName4.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\ConsoleApp2\\FileName4.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\ConsoleApp2\\FileName4.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\FileName4.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\ConsoleApp2\\FileName4.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\ConsoleApp2\\FileName4.cs",
               "RelativeToolTip": "ConsoleApp2\\FileName4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,11 +43,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FileName3.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\ConsoleApp2\\FileName3.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\ConsoleApp2\\FileName3.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\FileName3.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\ConsoleApp2\\FileName3.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\ConsoleApp2\\FileName3.cs",
               "RelativeToolTip": "ConsoleApp2\\FileName3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,11 +56,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FileName.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\ConsoleApp2\\FileName.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\ConsoleApp2\\FileName.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\FileName.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\ConsoleApp2\\FileName.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\ConsoleApp2\\FileName.cs",
               "RelativeToolTip": "ConsoleApp2\\FileName.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,11 +69,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FileName2.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\ConsoleApp2\\FileName2.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\ConsoleApp2\\FileName2.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\FileName2.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CSmaterials\\ConsoleApp2\\FileName2.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\\u043F511\\ConsoleApp1\\CSmaterials\\ConsoleApp2\\FileName2.cs",
               "RelativeToolTip": "ConsoleApp2\\FileName2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
