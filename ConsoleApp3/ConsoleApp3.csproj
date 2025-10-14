@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="string1.cs" />
     <Compile Include="array4.cs" />
     <Compile Include="array5.cs" />
     <Compile Include="array6.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="FileName1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="array8.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
