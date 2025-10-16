@@ -8,7 +8,7 @@ namespace ConsoleApp3
 {
     internal class array8
     {
-        static void Main(string[] args)
+        static void Mainцук(string[] args)
         {
             string filedString =
                 "#######" +
