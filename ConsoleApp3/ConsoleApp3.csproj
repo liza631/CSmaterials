@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dictionary2.cs" />
+    <Compile Include="FileName3.cs" />
+    <Compile Include="list1.cs" />
+    <Compile Include="dictionary1.cs" />
     <Compile Include="string1.cs" />
     <Compile Include="array4.cs" />
     <Compile Include="array5.cs" />
