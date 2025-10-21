@@ -6,3 +6,11 @@ C:\Users\Студент\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleAp
 C:\Users\Студент\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 C:\Users\Студент\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
 C:\Users\Студент\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe.config
+C:\Users\user\Desktop\академия\CSmaterials\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\user\Desktop\академия\CSmaterials\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\user\Desktop\академия\CSmaterials\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\user\Desktop\академия\CSmaterials\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\академия\CSmaterials\ConsoleApp3\obj\Debug\ConsoleApp3.exe.config
+C:\Users\user\Desktop\академия\CSmaterials\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\академия\CSmaterials\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\user\Desktop\академия\CSmaterials\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
