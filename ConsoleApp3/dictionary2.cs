@@ -8,7 +8,7 @@ namespace ConsoleApp3
 {
     internal class dictionary2
     {
-        static void Main(string[] args)
+        static void Mainert(string[] args)
         {
             Dictionary<string, int> shopItems = new Dictionary<string, int>()
             {
