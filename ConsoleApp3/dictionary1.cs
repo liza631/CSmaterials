@@ -8,7 +8,7 @@ namespace ConsoleApp3
 {
     internal class dictionary1
     {
-        static void Mainцу(string[] args)
+        static void Main76(string[] args)
         {
             Dictionary<string, int> people = new Dictionary<string, int>();
 

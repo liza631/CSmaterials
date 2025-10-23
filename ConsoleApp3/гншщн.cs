@@ -9,7 +9,7 @@ namespace ConsoleApp3
 {
     internal class гншщн
     {
-        static void Main(string[] args)
+        static void Mainаы(string[] args)
         {
             /*List<string> items = new List<string>() {"топор", "шлем"};
 
