@@ -45,7 +45,7 @@ namespace ConsoleApp3
             }
         }
 
-        static void Main(string[] args)
+        static void Mainке(string[] args)
         {
             List<String> list = new List<string>() {"Топор", "Меч"};
             DisplayInventory(list);

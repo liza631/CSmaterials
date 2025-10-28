@@ -64,6 +64,8 @@
     <Compile Include="array8.cs" />
     <Compile Include="гншщн.cs" />
     <Compile Include="контрольная.cs" />
+    <Compile Include="методы1.cs" />
+    <Compile Include="рекурсия1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
